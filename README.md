@@ -1,4 +1,6 @@
 ### metaroom-markup
+
+[![Join the chat at https://gitter.im/wizztjh/metaroom-markup](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wizztjh/metaroom-markup?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A markup language that builds virtual reality webpage like html.
 
 How do you represent `<table>` in virtual reality? a 3d table.
